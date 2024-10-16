@@ -1,0 +1,21 @@
+{
+  "name": "development",
+  "version": "1.0.0",
+  "description": "this is test server write and developloy on online ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "git",
+    "chai",
+    "dhiraj",
+    "nodejs"
+  ],
+  "author": "Dhiraj Arya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
